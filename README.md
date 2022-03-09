@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaadaiabdulla
+- 👋 Hi, I’m Abdulla
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning web development
 
